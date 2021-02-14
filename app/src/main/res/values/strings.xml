@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ListViewSample</string>
+    <string-array name="lv_menu">
+        <item>定食A</item>
+        <item>定食B</item>
+        <item>定食C</item>
+        <item>定食D</item>
+        <item>定食E</item>
+        <item>定食F</item>
+        <item>定食G</item>
+        <item>定食H</item>
+        <item>定食I</item>
+        <item>定食J</item>
+        <item>定食K</item>
+    </string-array>
+</resources>
